@@ -1,5 +1,12 @@
 # t_meter
-power meter wifi
+
+Kết nối Pzem và ESP8266
+D1<=>TX
+D2<=>RX
+5v<=>5V
+GND<=>GND
+
+
 I. LẮP ĐẶT
 T-Meter là công tơ điện tử ứng dụng trên công nghệ Wifi IoT được thiết kế dễ dàng lắp đặt vào nguồn cung cấp điện mà không phải tháo hay đấu nối phức tạp.
 -	Chân số 1 và 2 tính từ trái sang đấu vào 2 chân của cảm biến dòng kèm theo. Kẹp cảm biến dòng vào đường dây điện đi vào nhà sau công tơ điện lực.
@@ -10,31 +17,57 @@ T-Meter là công tơ điện tử ứng dụng trên công nghệ Wifi IoT đư
 
 II. THÔNG SỐ KỸ THUẬT
 1.1 Điện áp (U)
+
 1.1.1 Điện áp: 80 260V
+
 1.1.2 Độ phân giải: 0.1V
+
 1.1.3 Độ chính xác của phép đo: 0,5%
+
 1.2 Dòng điện (A)
+
 1.2.1 Phạm vi đo: 0 ～ 100A
+
 1.2.2 Dòng đo khởi động: 0,02A
+
 1.2.3 Độ phân giải: 0,001A
+
 1.2.4 Độ chính xác của phép đo: 0,5%
+
 1.3 Công suất (kW)
+
 1.3.1 Phạm vi đo: 0 ~23kW
+
 1.3.2 Công suất đo khởi động: 0.4W
+
 1.3.3 Độ phân giải: 0.1W
+
 1.3.5 Độ chính xác của phép đo: 0,5%
+
 1.4 Hệ số công suất (PF)
+
 1.4.1 Phạm vi đo: 0,00 ~ 1,00
+
 1.4.2 Độ phân giải: 0,01
+
 1.4.3 Độ chính xác của phép đo: 1%
+
 1.5 tần số (Hz)
+
 1.5.1 Phạm vi đo: 45Hz ~ 65Hz
+
 1.5.2 Độ phân giải 0.1Hz
+
 1.5.3 Độ chính xác đo: 0,5%
+
 1.6 Điện năng tiêu thụ (kWh)
+
 1.6.1 Phạm vi đo: 0 ~ 9999,99kWh
+
 1.6.2 Độ phân giải: 1Wh
+
 1.6.3 Độ chính xác đo: 0,5%
+
 
 III. SỬ DỤNG
 1.	Khởi động và kết nối wifi
