@@ -11,3 +11,14 @@ Trạng thái led:
 - Lúc kết nối wifi led nhấp nháy 0.5s
 - Lúc đã kết nối wifi led sáng
 - Lúc đang đọc công tơ led chớp
+
+## V2.5
+- Update chế độ nút ấn:
+	+ Ấn 1s nhả ra sẽ reset thiết bị
+	+ Ấn >6s sẽ khôi phục mặc định thiết bị, xóa hết dữ liệu, chỉ số đo,..
+- Update trạng thái led:
+	+ Khởi dộng tìm kiếm kết nối wifi: led nhấp nháy
+	+ Kết nối wifi thành công led sáng
+	+ Không có kết nối wifi led tắt
+	+ Đọc chỉ số và gửi server lớp chớp chớp
+	
