@@ -23,6 +23,6 @@ Trạng thái led:
 	+ Đọc chỉ số và gửi server lớp chớp chớp
 
 ## V2.6
- Thêm một số chức năng ẩn dùng để chốt chỉ số theo ngày tháng bằng tay.
-	- "ip/chotngay" để thực hiện chốt chỉ số theo ngày ngay lập tức
-	- "ip/chotthang" để chốt chỉ số tháng ngay lập tức
+- Thêm một số chức năng ẩn dùng để chốt chỉ số theo ngày tháng bằng tay.
+	+ "ip/chotngay" để thực hiện chốt chỉ số theo ngày ngay lập tức
+	+ "ip/chotthang" để chốt chỉ số tháng ngay lập tức
