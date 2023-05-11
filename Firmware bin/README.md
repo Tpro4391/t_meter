@@ -26,3 +26,5 @@ Trạng thái led:
 - Thêm một số chức năng ẩn dùng để chốt chỉ số theo ngày tháng bằng tay.
 	+ "ip/chotngay" để thực hiện chốt chỉ số theo ngày ngay lập tức
 	+ "ip/chotthang" để chốt chỉ số tháng ngay lập tức
+## V2.7
+- Cập nhật giá bản lẻ điện mới nhất theo 4/5/2023.
